@@ -1,0 +1,13 @@
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\bin\Debug\netstandard2.0\CoolCamUtils.deps.json
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\bin\Debug\netstandard2.0\CoolCamUtils.dll
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\bin\Debug\netstandard2.0\CoolCamUtils.pdb
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\bin\Debug\netstandard2.0\CrashRefrences.dll
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.csprojAssemblyReference.cache
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.csproj.CoreCompileInputs.cache
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.AssemblyInfoInputs.cache
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.AssemblyInfo.cs
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.csproj.CopyComplete
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.dll
+C:\Users\AngryBlackCat\source\repos\CoolCamUtils\obj\Debug\netstandard2.0\CoolCamUtils.pdb
